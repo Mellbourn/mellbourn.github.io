@@ -1,5 +1,7 @@
 {
   "main.js": "render-page.js",
   "main.js.map": "render-page.js.map",
-  "static/avatar.jpg": "static/avatar-28e714ca5d2f8f447ff8632bb2e1117c.jpg"
+  "static/avatar.jpg": "static/avatar-28e714ca5d2f8f447ff8632bb2e1117c.jpg",
+  "static/klas.jpg": "static/klas-28e714ca5d2f8f447ff8632bb2e1117c.jpg",
+  "static/rolf.jpg": "static/rolf-77bcad8b7f05fd142c304add88ab32b2.jpg"
 }
