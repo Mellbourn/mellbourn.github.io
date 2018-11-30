@@ -6,9 +6,11 @@
   X-Content-Type-Options: nosniff
 /static/*
   Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
 /offline-plugin-app-shell-fallback/
-  Link: </webpack-runtime-a255e9fed3ce74146c01.js>; rel=preload; as=script
-  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-910afaceadcd79472375.js>; rel=preload; as=script
+  Link: </webpack-runtime-cb4ed821ae86a786ed02.js>; rel=preload; as=script
+  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-254be6d36119a5d82b71.js>; rel=preload; as=script
 /
-  Link: </webpack-runtime-a255e9fed3ce74146c01.js>; rel=preload; as=script
-  Link: </4.d19b74d19da034a75e53.css>; rel=preload; as=script
+  Link: </webpack-runtime-cb4ed821ae86a786ed02.js>; rel=preload; as=script
+  Link: </4.8abe3fa8115dfaf6f925.css>; rel=preload; as=script
